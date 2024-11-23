@@ -1,7 +1,8 @@
 /*
-Kullanıcıdan bir sayı alıp ve o sayının faktöriyelini hesapla
+Kullanıcıdan bir sayı al ve o sayının faktöriyelini hesapla
 negatif sayı girdiğinde hata verip tekrardan sayı girmesini sağla
 faktöriyelin nasıl hesaplandığını göstererek sonucu yazdır.
+Kullanıcıya devam etmek isteyip istemediğini sor.
 */
 #include <stdio.h>
 
