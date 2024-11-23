@@ -10,7 +10,6 @@ int main(){
 
     int option = 0; 
     float sqLenght, triBase, triH, crcR = 0;
-    int checker = 0;
     float areaSQ, areaTri, areaCrc = 0;
 
     printf("---(Choose Geometric Shape to Calculate)---\n");
@@ -18,11 +17,10 @@ int main(){
     printf("\n-------------------------------------------\n");
     scanf("%d", &option);
 
-    while(checker == 0){
+    while(1){
         if(option == 1 || option == 2 || option == 3 ){
             break;
         }else{
-            checker = 0;
             printf("Error: Undefined shape. Try again..\n");
             scanf("%d", &option);
         }
