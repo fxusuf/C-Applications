@@ -1,6 +1,6 @@
 /*
 Kullanıcıdan iki farklı sayı al
-Kullanıcının seçenekler sun 
+Kullanıcıya seçenekler sun 
 Her seçenek için farklı matematiksel işlemleri uygulayıp ekrana yazdır
 Bölümde paydanın sıfır olmamasını sağla ve tanımlanmamış seçenekte kullanıcıyı uyar.
 */
