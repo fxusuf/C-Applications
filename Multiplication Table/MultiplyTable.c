@@ -12,10 +12,10 @@ int main(){
     int result = 1;
     int numbers[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-    for(result = 1; result < 10; result++){ 
+    for(result = 1; result <= 10; result++){ 
         for(counter = 0; counter <= maxBorder; counter++){
             final1 = result * numbers[counter];
-            printf(" %d x %d = %d",result, numbers[counter], final1);
+            printf(" %2d  x %2d = %3d",result, numbers[counter], final1);
             if(counter < 9){
                 printf(" |");
             }
