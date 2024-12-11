@@ -35,6 +35,7 @@ Here is a list of the projects included in this repository:
 9. **[Parking Fee Calculator](https://github.com/fxusuf/C-Applications/tree/main/Parking%20Fee%20Calculator)**: This C program calculates parking fees based on the duration of stay, validating input and applying different rates for varying time intervals.
 10. **[Star Pattern Generator Based on Input Number](https://github.com/fxusuf/C-Applications/tree/main/Star%20Pattern%20Generator%20Based%20on%20Input%20Number)**: This C program prints a star pattern based on user input. It uses nested loops to print decreasing rows of stars, starting from the input number down to one.
 11. **[Tempreture Calculator](https://github.com/fxusuf/C-Applications/tree/main/Tempreture%20Calculator)**: A simple C program to convert temperatures between Celsius, Kelvin, and Fahrenheit using modular functions.
+12. **[Armstrong Numbers Finder](https://github.com/fxusuf/C-Applications/tree/main/Armstrong%20Numbers%20Finder)**: A program that finds armstrong numbers between 1 to 999.
 ---
 
 ## How to Run
