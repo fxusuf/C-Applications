@@ -1,29 +1,9 @@
-# C Applications Repository 🚀
+# C Applications Repository 
 
-"Hello, Universe!" 🌌  
+printf("Building the foundation...\n"); 
 This repository contains a variety of projects written in the C programming language. Each project focuses on solving a specific problem or implementing a particular algorithm.
 
----
-
-## Table of Contents
-
-- [About the Repository](#about-the-repository)
-- [Projects](#projects)
-- [How to Run](#how-to-run)
-- [Contact](#contact)
-
----
-
-## About the Repository
-
-This repository was created as part of my journey to strengthen my programming skills, particularly in the **C programming language**. As a Computer Engineering student, I aim to master low-level programming and algorithmic problem-solving, which are crucial for my career goals in **space technologies**. Each project in this repository demonstrates fundamental concepts such as file handling, algorithms, and data structures.
-
----
-
 ## Projects
-
-Here is a list of the projects included in this repository:
-
 1. **[Factorial Calculator](https://github.com/fxusuf/C-Applications/tree/main/Factorial%20Calculator)**: Calculates the factorial of a number, validates input, and displays the calculation steps.
 2. **[Football Team Score](https://github.com/fxusuf/C-Applications/tree/main/Football%20Team%20Score)**: Tracks a football team's performance by recording goals scored and conceded. Calculates total matches, wins, losses, draws, and points.
 3. **[Basic Calculator](https://github.com/fxusuf/C-Applications/tree/main/Basic%20Calculator%20App)**: Performs arithmetic operations on two numbers based on user selection, ensuring no division by zero and handling undefined operations gracefully.
