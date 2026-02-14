@@ -55,4 +55,4 @@ Feel free to reach out if you have any questions, suggestions, or collaboration 
 
 ---
 
-Thank you for visiting my repository! Stay tuned for more exciting projects. 🚀
+Thank you for taking the time to explore my work.
